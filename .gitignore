@@ -243,3 +243,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+# Allow demo temporary keys
+!*_TemporaryKey.pfx
