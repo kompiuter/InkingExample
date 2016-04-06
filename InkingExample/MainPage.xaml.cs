@@ -13,6 +13,7 @@ using Windows.UI.Xaml.Controls;
  * https://mva.microsoft.com/en-US/training-courses/windows-10-inking-and-the-inkcanvas-14586
  */
 
+
 namespace InkingExample
 {
     /// <summary>
